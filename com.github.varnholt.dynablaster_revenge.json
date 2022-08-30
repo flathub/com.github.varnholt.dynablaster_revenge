@@ -41,6 +41,14 @@
             {
                 "type": "file",
                 "path": "dynablaster.sh"
+            },
+            {
+                "type": "file",
+                "path": "com.github.varnholt.dynablaster_revenge-128.png"
+            },
+            {
+                "type": "file",
+                "path": "com.github.varnholt.dynablaster_revenge-64.png"
             }
             ],
             "post-install": [
@@ -49,7 +57,9 @@
                 "install -Dm644 data/icons/dynablaster_revenge-256.png /app/share/icons/hicolor/256x256/apps/com.github.varnholt.dynablaster_revenge.png",
                 "install -Dm644 ../com.github.varnholt.dynablaster_revenge.desktop /app/share/applications/com.github.varnholt.dynablaster_revenge.desktop",
                 "install -Dm644 ../com.github.varnholt.dynablaster_revenge.metainfo.xml /app/share/metainfo/com.github.varnholt.dynablaster_revenge.metainfo.xml",
-                "install -Dm755 ../dynablaster.sh /app/bin/dynablaster.sh"]
+                "install -Dm755 ../dynablaster.sh /app/bin/dynablaster.sh",
+                "install -Dm644 ../com.github.varnholt.dynablaster_revenge-128.png /app/share/icons/hicolor/128x128/apps/com.github.varnholt.dynablaster_revenge.png",
+                "install -Dm644 ../com.github.varnholt.dynablaster_revenge-64.png /app/share/icons/hicolor/64x64/apps/com.github.varnholt.dynablaster_revenge.png"]
             }
         ]
 }
