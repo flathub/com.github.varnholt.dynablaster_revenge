@@ -36,7 +36,7 @@
             },
             {
                 "type": "file",
-                "path": "com.github.varnholt.dynablaster_revenge.appdata.xml"
+                "path": "com.github.varnholt.dynablaster_revenge.metainfo.xml"
             },
             {
                 "type": "file",
