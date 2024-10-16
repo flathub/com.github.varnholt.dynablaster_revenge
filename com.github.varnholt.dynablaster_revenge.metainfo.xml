@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
 <application>
   <id type="desktop">com.github.varnholt.dynablaster_revenge</id>
   <project_license>CC-BY-NC-4.0</project_license>
@@ -19,7 +20,7 @@
   <url type="homepage">https://github.com/varnholt/dynablaster_revenge</url>
   <screenshots>
     <screenshot type="default">https://raw.githubusercontent.com/varnholt/dynablaster_revenge/master/doc/screenshot_2.jpg</screenshot>
-    <screenshot>https://raw.githubusercontent.com/varnholt/dynablaster_revenge/master/doc/screenshot_3.jpg</screenshot>
+    <screenshot></screenshot>
   </screenshots>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">moderate</content_attribute>
@@ -29,3 +30,4 @@
     <release version="1.0.2" date="2019-05-20"/>
   </releases>
 </application>
+</component>
