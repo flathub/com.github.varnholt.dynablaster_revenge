@@ -20,7 +20,7 @@
   <url type="homepage">https://github.com/varnholt/dynablaster_revenge</url>
   <screenshots>
     <screenshot type="default">https://raw.githubusercontent.com/varnholt/dynablaster_revenge/master/doc/screenshot_2.jpg</screenshot>
-    <screenshot></screenshot>
+    <screenshot>https://raw.githubusercontent.com/varnholt/dynablaster_revenge/master/doc/screenshot_3.jpg</screenshot>
   </screenshots>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">moderate</content_attribute>
