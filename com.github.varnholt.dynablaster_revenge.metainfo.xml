@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<application>
-  <id type="desktop">com.github.varnholt.dynablaster_revenge</id>
+<component type="desktop-application">
+  <id>com.github.varnholt.dynablaster_revenge</id>
   <project_license>CC-BY-NC-4.0</project_license>
   <metadata_license>CC0-1.0</metadata_license>
   <provides>
     <id>com.github.varnholt.dynablaster_revenge.desktop</id>
   </provides>
+  <launchable type="desktop-id">com.github.varnholt.dynablaster_revenge.desktop</launchable>    
   <name>Dynablaster Revenge</name>
+  <developer_name>Dynablaster Revenge developers</developer_name>
   <summary>Remake of the game Dynablaster</summary>
   <description>
     <p>
@@ -18,8 +20,8 @@
   </description>
   <url type="homepage">https://github.com/varnholt/dynablaster_revenge</url>
   <screenshots>
-    <screenshot type="default">https://raw.githubusercontent.com/varnholt/dynablaster_revenge/master/doc/screenshot_2.jpg</screenshot>
-    <screenshot>https://raw.githubusercontent.com/varnholt/dynablaster_revenge/master/doc/screenshot_3.jpg</screenshot>
+    <screenshot type="default"><image>https://raw.githubusercontent.com/varnholt/dynablaster_revenge/master/doc/screenshot_2.jpg</image></screenshot>
+    <screenshot><image>https://raw.githubusercontent.com/varnholt/dynablaster_revenge/master/doc/screenshot_3.jpg</image></screenshot>
   </screenshots>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">moderate</content_attribute>
@@ -28,4 +30,4 @@
   <releases>
     <release version="1.0.2" date="2019-05-20"/>
   </releases>
-</application>
+</component>
