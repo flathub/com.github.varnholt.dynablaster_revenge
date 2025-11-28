@@ -30,4 +30,11 @@
   <releases>
     <release version="1.0.2" date="2019-05-20"/>
   </releases>
+  <keywords>
+    <keyword>game</keyword>
+    <keyword>remake</keyword>
+    <keyword>multiplayer</keyword>
+    <keyword>arcadegame</keyword>
+    <keyword>blast</keyword>
+  </keywords>
 </component>
